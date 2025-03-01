@@ -2,81 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on HzFrancesca</title>
-        <link>https://example.com/tags/</link>
+        <link>https://hzfrancesca.github.io/tags/</link>
         <description>Recent content in Tags on HzFrancesca</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>HzFrancesca</copyright>
-        <lastBuildDate>Thu, 27 Feb 2025 17:24:11 +0800</lastBuildDate><atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 27 Feb 2025 17:24:11 +0800</lastBuildDate><atom:link href="https://hzfrancesca.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Tag1</title>
-        <link>https://example.com/tags/tag1/</link>
+        <link>https://hzfrancesca.github.io/tags/tag1/</link>
         <pubDate>Thu, 27 Feb 2025 17:24:11 +0800</pubDate>
         
-        <guid>https://example.com/tags/tag1/</guid>
+        <guid>https://hzfrancesca.github.io/tags/tag1/</guid>
         <description></description>
         </item>
         <item>
         <title>Tag2</title>
-        <link>https://example.com/tags/tag2/</link>
+        <link>https://hzfrancesca.github.io/tags/tag2/</link>
         <pubDate>Thu, 27 Feb 2025 17:24:11 +0800</pubDate>
         
-        <guid>https://example.com/tags/tag2/</guid>
+        <guid>https://hzfrancesca.github.io/tags/tag2/</guid>
         <description></description>
         </item>
         <item>
         <title>Css</title>
-        <link>https://example.com/tags/css/</link>
+        <link>https://hzfrancesca.github.io/tags/css/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/tags/css/</guid>
+        <guid>https://hzfrancesca.github.io/tags/css/</guid>
         <description></description>
         </item>
         <item>
         <title>Html</title>
-        <link>https://example.com/tags/html/</link>
+        <link>https://hzfrancesca.github.io/tags/html/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/tags/html/</guid>
+        <guid>https://hzfrancesca.github.io/tags/html/</guid>
         <description></description>
         </item>
         <item>
         <title>Markdown</title>
-        <link>https://example.com/tags/markdown/</link>
+        <link>https://hzfrancesca.github.io/tags/markdown/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/tags/markdown/</guid>
+        <guid>https://hzfrancesca.github.io/tags/markdown/</guid>
         <description></description>
         </item>
         <item>
         <title>Themes</title>
-        <link>https://example.com/tags/themes/</link>
+        <link>https://hzfrancesca.github.io/tags/themes/</link>
         <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/tags/themes/</guid>
+        <guid>https://hzfrancesca.github.io/tags/themes/</guid>
         <description></description>
         </item>
         <item>
         <title>Privacy</title>
-        <link>https://example.com/tags/privacy/</link>
+        <link>https://hzfrancesca.github.io/tags/privacy/</link>
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/tags/privacy/</guid>
+        <guid>https://hzfrancesca.github.io/tags/privacy/</guid>
         <description></description>
         </item>
         <item>
         <title>Shortcodes</title>
-        <link>https://example.com/tags/shortcodes/</link>
+        <link>https://hzfrancesca.github.io/tags/shortcodes/</link>
         <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/tags/shortcodes/</guid>
+        <guid>https://hzfrancesca.github.io/tags/shortcodes/</guid>
         <description></description>
         </item>
         <item>
         <title>Emoji</title>
-        <link>https://example.com/tags/emoji/</link>
+        <link>https://hzfrancesca.github.io/tags/emoji/</link>
         <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/tags/emoji/</guid>
+        <guid>https://hzfrancesca.github.io/tags/emoji/</guid>
         <description></description>
         </item>
         
