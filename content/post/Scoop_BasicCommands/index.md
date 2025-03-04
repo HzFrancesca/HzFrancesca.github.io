@@ -23,7 +23,7 @@ categories :
 2. ### Scoop basic commands
 
    ```powershell
-   # Bssic commands
+   # Basic commands
    scoop status
    scoop checkup
    
@@ -59,7 +59,7 @@ categories :
    scoop search <package>
    scoop info <package>
    scoop depends <package>
-   scoop insatll <package> (--global)
+   scoop install <package> (--global)
    scoop uninstall <package>
    
    # Install common software
