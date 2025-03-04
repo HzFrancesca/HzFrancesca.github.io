@@ -2,7 +2,7 @@
 date : '2025-03-04T20:43:42+08:00'
 draft : false
 title : 'Scoop_BasicCommands'
-description: 'A simple introduction'
+description: 'Insturctions for scoop installation and daily use'
 image : 'Isla.jpg'
 categories : 
     - Windows
