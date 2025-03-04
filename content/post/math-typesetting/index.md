@@ -1,5 +1,6 @@
 ---
 author: Hugo Authors
+draft : true
 title: Math Typesetting
 date: 2019-03-08
 description: A brief guide to setup KaTeX
@@ -41,5 +42,5 @@ Inline math: $\varphi = \dfrac{1+\sqrt5}{2}= 1.6180339887…$
 
 Block math:
 $$
- \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } } 
+ \varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }
 $$
