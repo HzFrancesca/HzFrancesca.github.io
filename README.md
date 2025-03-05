@@ -1,3 +1,5 @@
 # Hugo_blog_source
 
-使用Hugo生成的博客网站的源代码
+Source code of a blog site generated using Hugo
+
+
